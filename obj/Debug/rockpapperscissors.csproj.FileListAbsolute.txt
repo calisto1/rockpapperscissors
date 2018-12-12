@@ -1,0 +1,7 @@
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\bin\Debug\rockpapperscissors.exe.config
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\bin\Debug\rockpapperscissors.exe
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\bin\Debug\rockpapperscissors.pdb
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\obj\Debug\rockpapperscissors.csprojAssemblyReference.cache
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\obj\Debug\rockpapperscissors.csproj.CoreCompileInputs.cache
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\obj\Debug\rockpapperscissors.exe
+C:\Users\Calisto\source\repos\rockpapperscissors\rockpapperscissors\obj\Debug\rockpapperscissors.pdb
